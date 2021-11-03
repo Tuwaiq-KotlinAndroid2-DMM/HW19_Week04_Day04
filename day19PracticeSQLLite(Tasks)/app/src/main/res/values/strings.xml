@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tuwaiq Task</string>
+    <string name="duedate_hint">due</string>
+    <string name="task_title_hint">task title</string>
+    <string name="task_details_hint">task details</string>
+    <string name="temp_img_hint">temp</string>
+    <string name="title_hint">Title</string>
+    <string name="duedate_hints">DueDate</string>
+    <string name="member_hints">Member</string>
+    <string name="description_hints">Description</string>
+    <string name="add_task_hint">Add Task</string>
+    <string name="warning_task_id">There was an issue retrieving the task</string>
+    <string name="task_delete_success">Task was deleted successfully</string>
+    <string name="task_delete_failure">Could not safely delete the task</string>
+</resources>
