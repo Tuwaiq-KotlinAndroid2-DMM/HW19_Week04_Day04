@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "482834856693",
+    "firebase_url": "https://daynineteen-563a1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "daynineteen-563a1",
+    "storage_bucket": "daynineteen-563a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482834856693:android:26db1248fbf2f4808c63bc",
+        "android_client_info": {
+          "package_name": "com.alidevs.daynineteen_firebaseee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482834856693-chohaogd9k1o0sv0cv47qsq5g9o66qeo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Ml29i7TGBqSpomiXYfrNEAFH87vjeDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482834856693-chohaogd9k1o0sv0cv47qsq5g9o66qeo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
